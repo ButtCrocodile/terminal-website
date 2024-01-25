@@ -196,8 +196,8 @@ img.pip-hero {
 	width: 120px;
 }
 
-form {}
-
+/* form {}
+ */
 label {
 	clear: left;
 	display: block;
@@ -221,7 +221,7 @@ textarea {
 }
 
 textarea {
-	margin-bottom: 20px
+	margin-bottom: 20px;
 	overflow: auto;
 	resize: none;
 }
